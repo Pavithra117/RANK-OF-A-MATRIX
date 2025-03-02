@@ -15,6 +15,7 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 End the program 
 ## Program:
 ```
+
 #Program to find the rank of a matrix.
 #Developed by: K.pavithra 
 #RegisterNumber:212224240112
@@ -23,11 +24,13 @@ a=np.array([[3,2,5],[1,1,2],[3,3,6]])
 Rank=np.linalg.matrix_rank(a)
 print(Rank)
 
+
 ```
 ## Output:
 
-![alt text](../Downloads/pdf24_merged.pdf)
+![alt text](<Screenshot 2025-03-02 143520.png>)
 
 ## Result:
+
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
